@@ -34,5 +34,5 @@ for i, number in enumerate(numbers):
 # 100
 
 pnumebers = [0,50,100]
-for i, pnumbers in enumerate(pnumebers):
-    print("Number {0} is {1:>3}".format(i+1, pnumbers))
+for i, pnumber in enumerate(pnumebers):
+    print("Number {0} is {1:>3}".format(i+1, pnumber))
