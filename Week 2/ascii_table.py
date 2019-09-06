@@ -33,7 +33,6 @@ for value in range(starting_value, UPPER + 1):
     print("{:6} {:>2}".format(value, chr(value)),end="")
 print("\n")
 
-
 print("Version 2: Vertical then horizontal ordering")
 # iterate through rows
 for row in range(rows + 1):
